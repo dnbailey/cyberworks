@@ -1,4 +1,4 @@
-from adventurelib import *
+from lib.adventurelib import *
 
 #: Rooms
 serverRoom = Room("""

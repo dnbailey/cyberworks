@@ -1,6 +1,6 @@
-from adventurelib import *
-from rooms import *
-from items import *
+from lib.adventurelib import *
+from src.rooms import *
+from src.items import *
 
 #: Movement Commands
 #: TODO Change directions to something matching cyberspace

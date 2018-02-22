@@ -1,5 +1,5 @@
-from adventurelib import *
-from rooms import *
+from lib.adventurelib import *
+from src.rooms import *
 
 #: Configure bags
 Room.items = Bag()
